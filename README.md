@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Code & Coffee
+
+Do not use `America/Ciudad_Juarez`
+
 <!--
 **AbeEstrada/AbeEstrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
