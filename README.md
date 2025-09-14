@@ -1,4 +1,4 @@
-# 👨‍💻 Abraham Estrada
+# Abraham Estrada
 
 **Full Stack Developer | 15+ Years of Building for the Web**\
 _Crafting high performance applications with modern JavaScript, React, and AWS serverless architecture_
